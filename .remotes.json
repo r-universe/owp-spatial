@@ -8,6 +8,12 @@
   {
     "package": "AOI",
     "url": "https://github.com/mikejohnson51/AOI",
+    "via": ["RRASSLER"],
+    "from": "RRASSLER"
+  },
+  {
+    "package": "AOI",
+    "url": "https://github.com/mikejohnson51/AOI",
     "via": ["climateR"],
     "from": "climateR"
   },
@@ -88,6 +94,12 @@
     "url": "https://github.com/keller-mark/pizzarr",
     "via": ["zonal", "climateR", "ncmeta", "rnz"],
     "from": "zonal"
+  },
+  {
+    "package": "rhdf5",
+    "url": "https://github.com/grimbough/rhdf5",
+    "via": ["RRASSLER"],
+    "from": "RRASSLER"
   },
   {
     "package": "rnz",

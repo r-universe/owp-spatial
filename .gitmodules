@@ -41,6 +41,10 @@
 [submodule "reference.fabric"]
 	path = reference.fabric
 	url = https://github.com/lynker-spatial/reference.fabric
+[submodule "rhdf5"]
+	path = rhdf5
+	url = https://github.com/grimbough/rhdf5
+	registered = false
 [submodule "rnz"]
 	path = rnz
 	url = https://github.com/doi-usgs/rnz
