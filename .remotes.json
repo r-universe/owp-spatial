@@ -1,5 +1,11 @@
 [
   {
+    "package": "AHGestimation",
+    "url": "https://github.com/mikejohnson51/AHGestimation",
+    "via": ["hydrofabric3D"],
+    "from": "hydrofabric3D"
+  },
+  {
     "package": "AOI",
     "url": "https://github.com/mikejohnson51/AOI",
     "via": ["climateR"],
