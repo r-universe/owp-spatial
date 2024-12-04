@@ -36,6 +36,12 @@
     "from": "hydrofabric"
   },
   {
+    "package": "hydrofab",
+    "url": "https://github.com/mikejohnson51/hydrofab",
+    "via": ["reference.fabric"],
+    "from": "reference.fabric"
+  },
+  {
     "package": "zonal",
     "url": "https://github.com/mikejohnson51/zonal",
     "via": ["hydrofabric"],
