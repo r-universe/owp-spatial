@@ -5,6 +5,10 @@
 [submodule "AHGestimation"]
 	path = AHGestimation
 	url = https://github.com/mikejohnson51/AHGestimation
+[submodule "AOI"]
+	path = AOI
+	url = https://github.com/mikejohnson51/AOI
+	registered = false
 [submodule "climateR"]
 	path = climateR
 	url = https://github.com/mikejohnson51/climateR
