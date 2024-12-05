@@ -10,5 +10,35 @@
     "url": "https://github.com/mikejohnson51/AOI",
     "via": ["climateR"],
     "from": "climateR"
+  },
+  {
+    "package": "AOI",
+    "url": "https://github.com/mikejohnson51/AOI",
+    "via": ["hydrofabric", "climateR"],
+    "from": "hydrofabric"
+  },
+  {
+    "package": "climateR",
+    "url": "https://github.com/mikejohnson51/climateR",
+    "via": ["hydrofabric"],
+    "from": "hydrofabric"
+  },
+  {
+    "package": "hfsubsetR",
+    "url": "https://github.com/lynker-spatial/hfsubsetR",
+    "via": ["hydrofabric"],
+    "from": "hydrofabric"
+  },
+  {
+    "package": "hydrofab",
+    "url": "https://github.com/NOAA-OWP/hydrofab",
+    "via": ["hydrofabric"],
+    "from": "hydrofabric"
+  },
+  {
+    "package": "zonal",
+    "url": "https://github.com/mikejohnson51/zonal",
+    "via": ["hydrofabric"],
+    "from": "hydrofabric"
   }
 ]
