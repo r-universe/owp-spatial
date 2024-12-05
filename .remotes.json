@@ -48,16 +48,34 @@
     "from": "climateR"
   },
   {
+    "package": "ncmeta",
+    "url": "https://github.com/dblodgett-usgs/ncmeta",
+    "via": ["hydrofabric", "climateR"],
+    "from": "hydrofabric"
+  },
+  {
     "package": "pizzarr",
     "url": "https://github.com/keller-mark/pizzarr",
     "via": ["climateR", "ncmeta", "rnz"],
     "from": "climateR"
   },
   {
+    "package": "pizzarr",
+    "url": "https://github.com/keller-mark/pizzarr",
+    "via": ["hydrofabric", "climateR", "ncmeta", "rnz"],
+    "from": "hydrofabric"
+  },
+  {
     "package": "rnz",
     "url": "https://github.com/doi-usgs/rnz",
     "via": ["climateR", "ncmeta"],
     "from": "climateR"
+  },
+  {
+    "package": "rnz",
+    "url": "https://github.com/doi-usgs/rnz",
+    "via": ["hydrofabric", "climateR", "ncmeta"],
+    "from": "hydrofabric"
   },
   {
     "package": "zonal",
