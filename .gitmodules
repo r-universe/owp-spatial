@@ -27,9 +27,21 @@
 [submodule "hydrofabric3D"]
 	path = hydrofabric3D
 	url = https://github.com/lynker-spatial/hydrofabric3D
+[submodule "ncmeta"]
+	path = ncmeta
+	url = https://github.com/dblodgett-usgs/ncmeta
+	registered = false
+[submodule "pizzarr"]
+	path = pizzarr
+	url = https://github.com/keller-mark/pizzarr
+	registered = false
 [submodule "reference.fabric"]
 	path = reference.fabric
 	url = https://github.com/lynker-spatial/reference.fabric
+[submodule "rnz"]
+	path = rnz
+	url = https://github.com/doi-usgs/rnz
+	registered = false
 [submodule "zonal"]
 	path = zonal
 	url = https://github.com/mikejohnson51/zonal

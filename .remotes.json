@@ -42,6 +42,24 @@
     "from": "reference.fabric"
   },
   {
+    "package": "ncmeta",
+    "url": "https://github.com/dblodgett-usgs/ncmeta",
+    "via": ["climateR"],
+    "from": "climateR"
+  },
+  {
+    "package": "pizzarr",
+    "url": "https://github.com/keller-mark/pizzarr",
+    "via": ["climateR", "ncmeta", "rnz"],
+    "from": "climateR"
+  },
+  {
+    "package": "rnz",
+    "url": "https://github.com/doi-usgs/rnz",
+    "via": ["climateR", "ncmeta"],
+    "from": "climateR"
+  },
+  {
     "package": "zonal",
     "url": "https://github.com/mikejohnson51/zonal",
     "via": ["hydrofabric"],
