@@ -1,0 +1,10 @@
+{
+  "id": 57987906,
+  "created_at": "2024-12-05T00:20:48.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["owp-spatial.r-universe.dev"]
+}
