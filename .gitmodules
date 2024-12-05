@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/owp-spatial/owp-spatial.r-universe.dev
 	branch = HEAD
+[submodule "AHGestimation"]
+	path = AHGestimation
+	url = https://github.com/mikejohnson51/AHGestimation
+[submodule "climateR"]
+	path = climateR
+	url = https://github.com/mikejohnson51/climateR
+[submodule "fipio"]
+	path = fipio
+	url = https://github.com/program--/fipio
+[submodule "hfsubsetR"]
+	path = hfsubsetR
+	url = https://github.com/lynker-spatial/hfsubsetR
+[submodule "hydrofab"]
+	path = hydrofab
+	url = https://github.com/NOAA-OWP/hydrofab
+[submodule "hydrofabric3D"]
+	path = hydrofabric3D
+	url = https://github.com/lynker-spatial/hydrofabric3D
+[submodule "zonal"]
+	path = zonal
+	url = https://github.com/mikejohnson51/zonal
