@@ -9,6 +9,9 @@
 	path = AOI
 	url = https://github.com/mikejohnson51/AOI
 	registered = false
+[submodule "RRASSLER"]
+	path = RRASSLER
+	url = https://github.com/NOAA-OWP/RRASSLER
 [submodule "climateR"]
 	path = climateR
 	url = https://github.com/mikejohnson51/climateR
