@@ -20,7 +20,7 @@
   {
     "package": "AOI",
     "url": "https://github.com/mikejohnson51/AOI",
-    "via": ["hydrofabric", "climateR"],
+    "via": ["hydrofabric", "zonal", "climateR"],
     "from": "hydrofabric"
   },
   {
@@ -32,7 +32,7 @@
   {
     "package": "climateR",
     "url": "https://github.com/mikejohnson51/climateR",
-    "via": ["hydrofabric"],
+    "via": ["hydrofabric", "zonal"],
     "from": "hydrofabric"
   },
   {
@@ -68,7 +68,7 @@
   {
     "package": "ncmeta",
     "url": "https://github.com/dblodgett-usgs/ncmeta",
-    "via": ["hydrofabric", "climateR"],
+    "via": ["hydrofabric", "zonal", "climateR"],
     "from": "hydrofabric"
   },
   {
@@ -86,7 +86,7 @@
   {
     "package": "pizzarr",
     "url": "https://github.com/keller-mark/pizzarr",
-    "via": ["hydrofabric", "climateR", "ncmeta", "rnz"],
+    "via": ["hydrofabric", "zonal", "climateR", "ncmeta", "rnz"],
     "from": "hydrofabric"
   },
   {
@@ -110,7 +110,7 @@
   {
     "package": "rnz",
     "url": "https://github.com/doi-usgs/rnz",
-    "via": ["hydrofabric", "climateR", "ncmeta"],
+    "via": ["hydrofabric", "zonal", "climateR", "ncmeta"],
     "from": "hydrofabric"
   },
   {
