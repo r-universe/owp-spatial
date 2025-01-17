@@ -55,7 +55,7 @@
   },
   {
     "package": "hydrofab",
-    "url": "https://github.com/mikejohnson51/hydrofab",
+    "url": "https://github.com/NOAA-OWP/hydrofab",
     "via": ["reference.fabric"],
     "from": "reference.fabric"
   },
