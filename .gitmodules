@@ -15,12 +15,15 @@
 [submodule "climateR"]
 	path = climateR
 	url = https://github.com/mikejohnson51/climateR
+[submodule "elevationSources"]
+	path = elevationSources
+	url = https://github.com/owp-spatial/elevation-sources
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/program--/fipio
 [submodule "hfsubsetR"]
 	path = hfsubsetR
-	url = https://github.com/lynker-spatial/hfsubsetR
+	url = https://github.com/owp-spatial/hfsubsetR
 [submodule "hydrofab"]
 	path = hydrofab
 	url = https://github.com/NOAA-OWP/hydrofab
@@ -40,7 +43,7 @@
 	registered = false
 [submodule "reference.fabric"]
 	path = reference.fabric
-	url = https://github.com/lynker-spatial/reference.fabric
+	url = https://github.com/owp-spatial/reference.fabric
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/grimbough/rhdf5
